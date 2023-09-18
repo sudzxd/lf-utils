@@ -16,4 +16,4 @@ ffmpeg
 unzip
 unrar
 
-
+The files need to be executables
